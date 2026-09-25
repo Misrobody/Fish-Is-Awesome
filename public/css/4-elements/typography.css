@@ -1,0 +1,13 @@
+h1,
+h2 {
+    color: var(--bleu);
+    text-align: center;
+    padding: .5em;
+    grid-column: span 2;
+}
+
+h2 {
+    border: .1em solid var(--bleu);
+    border-radius: var(--roundover);
+    margin-top: 0;
+}

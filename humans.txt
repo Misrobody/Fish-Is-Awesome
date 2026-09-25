@@ -1,0 +1,12 @@
+/* TEAM */
+Creator: Bigeishe
+Project: Fish Is Awesome
+
+/* ABOUT */
+Purpose: A local-first app for managing fish inventory.
+
+/* TECHNOLOGY */
+Backend: PHP 8+
+Database: SQLite 3
+Frontend: HTML, CSS
+Principles: CRUD, simplicity, local storage.

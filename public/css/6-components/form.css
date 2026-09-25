@@ -1,0 +1,66 @@
+form {
+    border: .1em solid var(--bleu);
+    border-radius: var(--roundover);
+}
+
+form span {
+    color: var(--vin);
+    font-size: .8em;
+    font-weight: bold;
+}
+
+form label,
+form legend {
+    display: inline-block;
+    margin-top: 1em;
+}
+
+form label:first-of-type {
+    margin-top: 0em;
+}
+
+input,
+textarea,
+input[type=file]::file-selector-button {
+    border-radius: var(--roundover);
+    padding: 12px 20px;
+    margin-top: .2em;
+
+}
+
+input[type=text],
+input[type=submit],
+textarea {
+    width: 100%;
+    box-sizing: border-box;
+    background: #ffffff;
+}
+
+input[type=submit],
+input[type=file]::file-selector-button {
+    background-color: var(--brique);
+    color: var(--neige);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+input[type=submit] {
+    margin-bottom: 0em;
+}
+
+input[type=file]::file-selector-button {
+    padding: .5em;
+    margin-bottom: 0em;
+}
+
+form {
+    padding: 1em;
+    width: 30em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+textarea {
+    height: 150px;
+    resize: none;
+}

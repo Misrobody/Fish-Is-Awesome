@@ -1,0 +1,12 @@
+html {
+    font: 1.2em "Courier New";
+    background-color: var(--bleu);
+    background-image: url("../../images/water.png");
+}
+
+body {
+    width: 90%;
+    margin: auto;
+    justify-self: center;
+    align-self: center;
+}

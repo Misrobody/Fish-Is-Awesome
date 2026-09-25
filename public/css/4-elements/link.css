@@ -1,0 +1,11 @@
+a {
+    color: var(--brique);
+    font-style: normal;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+}
+
+a:hover {
+    color: var(--vin);
+}

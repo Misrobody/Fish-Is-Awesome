@@ -1,0 +1,9 @@
+main {
+    background-color: var(--neige);
+    margin-bottom: 2em;
+    border-radius: var(--roundover);
+}
+
+#content {
+    padding: .5em;
+}

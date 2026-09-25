@@ -1,0 +1,16 @@
+section {
+    border: .1em solid var(--bleu);
+    border-radius: var(--roundover);
+}
+
+section table td:first-of-type {
+    width: 60%;
+    vertical-align: top;
+}
+
+section {
+    width: 85%;
+    padding: 1%;
+    margin-left: auto;
+    margin-right: auto;
+}

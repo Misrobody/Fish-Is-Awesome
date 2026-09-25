@@ -1,0 +1,13 @@
+ol a {
+    text-decoration: underline;
+}
+
+ol span {
+    float: right;
+    margin-right: 1em;
+}
+
+ol li {
+    padding: .5em;
+    width: 100%;
+}

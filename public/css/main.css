@@ -1,0 +1,29 @@
+/*
+ * ITCSS Structure
+*/
+
+/* 1. Settings: tokens, variables */
+@import "1-settings/defaults.css";
+
+/* 2. Tools: mixins, functions */
+
+/* 3. Generic: resets, normalize */
+@import "3-generic/base.css";
+
+/* 4. Elements: raw HTML tags */
+@import "4-elements/article.css";
+@import "4-elements/header.css";
+@import "4-elements/image.css";
+@import "4-elements/link.css";
+@import "4-elements/list.css";
+@import "4-elements/main.css";
+@import "4-elements/nav.css";
+@import "4-elements/section.css";
+@import "4-elements/typography.css";
+
+/* 5. Objects: layout systems */
+
+/* 6. Components: reusable UI pieces */
+@import "6-components/form.css";
+
+/* 7. Utilities: helpers + responsive */
