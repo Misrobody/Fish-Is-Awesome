@@ -1,6 +1,8 @@
 # Fish Is Awesome
 
+<div align="center">
 <img src="https://media.giphy.com/media/R87MzW5xaWZO0/giphy.gif" width=300>
+</div>
 
 Fish Is Awesome is a lightweight local‑first application designed to help you manage your fish inventory without relying on massive cloud platforms or external services. Your data stays on your machine, where it belongs.
 
